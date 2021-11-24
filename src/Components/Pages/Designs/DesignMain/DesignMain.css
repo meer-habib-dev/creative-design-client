@@ -1,0 +1,11 @@
+.socalIcons {
+  transition: all 0.3s ease-in;
+}
+.socalIcons div:hover i {
+  transform: scale(1.2);
+}
+.btn-hover button:hover {
+  transition: all 0.3s ease-in-out;
+}
+.show-design {
+}
